@@ -4,6 +4,7 @@
 * [Accounting Equation](#the-accounting-equation)
 * [Assets](#assets)
 * [Liabilities](#liabilities)
+* [Owner's Equity](#owners-equity)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -27,7 +28,7 @@
       1. Operating Activities
       2. Investing Activities
       3. Financing Activities
-   3. Sorting of the inflows and outflows by the aforementioned categories will give us the Statement of Cash Flows. 
+   3. Sorting of the inflows and outflows by the aforementioned categories will give us the Statement of Cash Flows.
 5. Income Statement Basics:
    1. ``Owner's Equity`` from the Balance Sheet Equation comprises of:
       1. Paid In Capital: Amount of money directly invested by the owners of the business in the business. The amount of capital they have paid in.
@@ -39,7 +40,8 @@
               1.  Not the same as cash but the __source__.
           2.  Expenses are resource outflows. They represent cost incurred.
               1.  How assets have been used.
-6. Relationship between the 3 Statements
+6. All the accounting terms are based on judgements and estimates rather than truths. 
+7. Relationship between the 3 Statements
 
 ![image](./pics/RelationshipBetweenAll.png)
 
@@ -94,3 +96,55 @@
             1. Examples: Deferred Income Tax Assets and Long Term Receivables.
 
 <a name="liabilities"> <h2> Liabilities </h2></a>
+
+1. __Liabilities__: Obligations requiring future sacrifice either by paying assets or delivering a service.
+2. __Payable__: Obligation to pay in the future.
+3. Types of Liabilities
+   1. Accounts Payable: Credit given to the business. 30 - 60 days.
+   2. Wages Payable
+   3. Taxes Payable
+   4. Interest Payable: Interest on the loans.
+   5. Long Term Debt: Money borrowed that has to be paid back in the future.
+   6. Unearned Revenue: Obligation by the company to deliver a good or service in the future.
+4. Insight in the Accouting Equation involves:
+   1. Write down the asset
+   2. How you bought the asset
+5. __Formal Definition__: Probable future sacrifices of economic benefits arising from present __obligations__ of a particular entity to transfer assets or provide services to other entities in the future as a result of past transactions of events.
+   1. __obligations__: Includes legal, moral, social and implied commitments. 
+   2. __transfer assets or provide services__
+   3. __past transactions or events__: Events that have already happened.
+6. Liabilities in simple terms are sources of the funds used to acquire assets.
+7. Properly valuing the liability of a company is one of the biggest challenges an account can face.
+8. Carefully managed liabilities are the key to a company's success.
+9. Time Horizon Classification
+   1. Current Liabilities: Expected to be paid within a year.
+      1. Accounts Payable is the most common
+      2. Taxes
+      3. Wages 
+      4. Other expenses that remain temporarily unpaid
+      5. __Accrued Liabilities__: Expense that is recognized on the books before it has been paid; the expense is recorded in the accounting period in which it is incurred.
+      6. Short Term Loans
+      7. Portion of Long Term Loans to be repaid within the upcoming year
+      8. Unearned Revenue: Obligation to provide an already paid-for service that hasn't been received.
+   2. Long Term Liabilities / Non-Current Liabilities: Expected to be paid more than a year.
+      1. Long Term Note: Borrowing contract between two parties i.e. company and the bank.
+         1. e.g. Bond Issue
+      2. Capital Lease Financing is also a liability.
+      3. Deferred Income Tax Liability: Income tax expected to be paid in the future years on income that has already been reported in the net income statement but which because of the tax law has not been taxed.
+         1. If the value of a taxable investment changes in the future, the business can adjust its deferred tax liability.
+      4. Retirement Benefits to Employees
+      5. Long term unearned revenue: Those obligations that are to be satified periods greater than 1 year aka Deffered Income.
+10. Contigent Liabilities: Potential obligations that may occur depending on the outcome of an uncertain future event. 
+    1.  Cosigner's obligation on the loan: If borrower defaults on the loan
+    2.  Probable, Possible and Remote contigent liability based on the probability but very vauge in practice.
+    3.  __Probable__ Contigent Liability should therefore, be reported as a loss on the income statement and liability in the balance sheet.
+        1.  For example: Warranty Liabilities
+    4. Possible Contingent Liability: Less than probable but not remote.
+       1. Disclosed as a note in the financial statements.
+    5. Remote Contingent Liability: Not disclosed in the finanical statements.
+    6. Estimated Liability: Definite obligation with only amount of obligation in question and subject to estimation at balance sheet due date.
+       1. Pensions
+       2. Warranties
+       3. Deferred taxes
+
+<a name="owners-equity"> <h2> Owner's Equity </h2></a>
