@@ -1,6 +1,9 @@
 # Financial Accounting - Part 1
 
-## The Accounting Equation
+## Table of Contents
+* [Accounting Equation](#the-accounting-equation)
+
+<a name="the-accounting-equation"> The Accounting Equation </a>
 
 1. __Assets__: Economic resources owned or controlled by the company that will provide future benefit to the company. 
    1. Examples:
@@ -59,8 +62,8 @@
    1. Current cost
    2. Realized cost: amount that are supposed to be realized or received.
    3. Historical cost
-6. Time Horizon Classification
-   1. Current: One year or less
+6. __Time Horizon Classification__
+   1. __Current__: One year or less
       1. Cash: Coin, Currencies, Balances in Checking and Saving Accounts. Includes short term money market accounts.
       2. Accounts Receivables: Owed money that are usually collected between 10 - 60 days.
          1. Interest can or cannot be charged
@@ -70,12 +73,21 @@
       5. Investment Securities: Sold within a year - current assets.
       6. Listed in order of liquidity. 
       7. Current assets are the lifeblood / oil that keeps the business going. Assets are sold and cash is collected and process is repeated. 
-   2. Non-Current: You expect to still be around over a year to be on the next balance sheet.
+   2. __Non-Current__: You expect to still be around over a year to be on the next balance sheet.
       1. Long Term Investments: 
          1. Earn Income
          2. Exercise Influence on the company they are invested in
       2. Property
       3. Plant
       4. Equipment
-      5. Intangibles
-
+         1. Depreciation: Depreciation is an accounting method of allocating the cost of a tangible or physical asset over its useful life or life expectancy. Depreciation represents how much of an asset's value has been used up.
+      5. Intangibles: Assets with no physical or tangible characteristics such as agreements, contracts, rights or permissions. 
+         1. General reporting rule is that the intangible assets that are bought from others and not created by themselves.
+         2. Examples:
+            1. Patents
+            2. Trademarks
+            3. Goodwill: Amount paid over and above the value of the assets acquired.
+            4. Franchises
+         3. All others are reported in the "Other Assets" heading or listed separately.
+            1. Examples: Deferred Income Tax Assets and Long Term Receivables.
+   3. 
