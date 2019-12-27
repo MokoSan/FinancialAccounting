@@ -133,7 +133,7 @@
       3. Deferred Income Tax Liability: Income tax expected to be paid in the future years on income that has already been reported in the net income statement but which because of the tax law has not been taxed.
          1. If the value of a taxable investment changes in the future, the business can adjust its deferred tax liability.
       4. Retirement Benefits to Employees
-      5. Long term unearned revenue: Those obligations that are to be satified periods greater than 1 year aka Deffered Income.
+      5. Long term unearned revenue: Those obligations that are to be satified periods greater than 1 year aka Deferred Income.
 10. Contigent Liabilities: Potential obligations that may occur depending on the outcome of an uncertain future event. 
     1.  Cosigner's obligation on the loan: If borrower defaults on the loan
     2.  Probable, Possible and Remote contigent liability based on the probability but very vauge in practice.
@@ -148,3 +148,17 @@
        3. Deferred taxes
 
 <a name="owners-equity"> <h2> Owner's Equity </h2></a>
+
+1. __Owner's Equity__: Money invested by the owners. 
+   1. The amount that the owners have invested in a company for the company to buy assets.
+   2. Owner's Equity = Paid in Capital + Retained Revenue
+      1. __Paid in Capital aka Capital Stock / Contributions__: The amount the owners take out of their personal savings / bank accounts to invest in the business. 
+      2. __Retained Revenue__: Business generated revenue.
+         1. __Dividends__: Profits distributed to owners of a business.
+         2. __Retained Earnings__: Source of owner's equity for profits kept in the business i.e. reinvested in the business itself.
+2. __Equity__: Net Assets - Liabilities available after all obligations are satisfied. It is the residual amount post all obligations are paid.
+3. __Company ownership__:
+   1. Sole proprietorship 
+   2. Partnership
+   3. Corporation
+4. 
