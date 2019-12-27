@@ -2,8 +2,9 @@
 
 ## Table of Contents
 * [Accounting Equation](#the-accounting-equation)
+* [Assets](#assets)
 
-<a name="the-accounting-equation"> The Accounting Equation </a>
+<a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
 1. __Assets__: Economic resources owned or controlled by the company that will provide future benefit to the company. 
    1. Examples:
@@ -41,7 +42,7 @@
 
 ![image](./pics/RelationshipBetweenAll.png)
 
-## Assets
+<a name="assets"> <h2> Assets </h2></a>
 
 1. __Pure Definition__: Economic resources owned or controlled by a company that will provide probable future benefit. __Probable__ __future economic benefits__ __obtained or controlled__ by a particular entity as a result of past transactions or events.
    1. __Probable__: Highlights uncertainty i.e. the amount probably be paid.
@@ -90,4 +91,3 @@
             4. Franchises
          3. All others are reported in the "Other Assets" heading or listed separately.
             1. Examples: Deferred Income Tax Assets and Long Term Receivables.
-   3. 
