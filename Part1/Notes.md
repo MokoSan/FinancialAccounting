@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Accounting Equation](#the-accounting-equation)
 * [Assets](#assets)
+* [Liabilities](#liabilities)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -91,3 +92,5 @@
             4. Franchises
          3. All others are reported in the "Other Assets" heading or listed separately.
             1. Examples: Deferred Income Tax Assets and Long Term Receivables.
+
+<a name="liabilities"> <h2> Liabilities </h2></a>
