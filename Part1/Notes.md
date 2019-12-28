@@ -5,6 +5,7 @@
 * [Assets](#assets)
 * [Liabilities](#liabilities)
 * [Owner's Equity](#owners-equity)
+* [Balance Sheet](#balance-sheet)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -149,16 +150,71 @@
 
 <a name="owners-equity"> <h2> Owner's Equity </h2></a>
 
-1. __Owner's Equity__: Money invested by the owners. 
+1. __Owner's Equity__ aka __Shareholder's Equity__: Money invested by the owners. 
    1. The amount that the owners have invested in a company for the company to buy assets.
    2. Owner's Equity = Paid in Capital + Retained Revenue
       1. __Paid in Capital aka Capital Stock / Contributions__: The amount the owners take out of their personal savings / bank accounts to invest in the business. 
-      2. __Retained Revenue__: Business generated revenue.
+      2. __Retained Revenue__: Business generated revenue / profit.
          1. __Dividends__: Profits distributed to owners of a business.
-         2. __Retained Earnings__: Source of owner's equity for profits kept in the business i.e. reinvested in the business itself.
-2. __Equity__: Net Assets - Liabilities available after all obligations are satisfied. It is the residual amount post all obligations are paid.
+         2. __Retained Earnings__: Source of owner's equity for profits kept in the business for expansion i.e. reinvested in the business itself.
+2. __Equity__: Total Assets - Total Liabilities available after all obligations are satisfied. It is the residual amount post all obligations are paid.
 3. __Company ownership__:
    1. Sole proprietorship 
-   2. Partnership
-   3. Corporation
-4. 
+   2. Partnership: Small group.
+   3. Corporation: Diverse group of owners.
+4. Shares of Stocks are the proof of ownership in the business that can be traded on an exchange.
+5. Owner's Equity:
+   1. Increases when the contribution of the owners to the business i.e. paid in capital increases.
+   2. Increases when the Retained Revenue increases.
+   3. Decreases when there are not much profits made causing the Retained Revenue to decrease.
+      1. Very poor performance can lead to loss of assets made by the owners.
+   4. Paid in Capital is therefore, the portion of owner's equity in exchange for stock shares.
+6. Assets - Liabilities = Owner's Equity = Residual Interest of the Owners = Book Value.
+7. If balance sheet was perfect, Book Value = Market Value.
+8. Gap in Balance Sheet and Market Value (Price * # of Shares Outstanding: Shares outstanding refer to a company's stock currently held by all its shareholders, including share blocks held by institutional investors and restricted shares owned by the company's officers and insiders.)
+   1. Many assets are recorded at purchase cost not at current market value.
+   2. Not all assets are included in the balance sheets e.g. employees
+9. Company's Book Value < Market Value
+10. Owner's Equity also includes:
+    1.  __Treasury Stock__: A company's repurchase of own shares.
+        1.  Shown as a subtraction from total equity as it is cash to the former shareholders who terminate their ownership by selling back their shares.
+        2.  Reasons for stock repurchase:
+            1.  Show confidence in value of shares: stock is currently undervalued.
+            2.  Way to distribute unneeded excess cash.
+        3.  __Accumulated other comprehensive income__: The compromise that allows market values in the balance sheet while keeping the income statement uncluttered.
+            1.  Market related gains and losses not included in the income statements
+            2.  Examples:
+                1.  Equity of foreign subsidiaries 
+                2.  Value of Investment Securities
+                3.  Value of Derivatives
+
+<a name="balance-sheet"> <h2> Balance Sheet </h2></a>
+
+1. __Accounting Cycle__: Process of analyzing business events and collecting, processing, and summarizing information in a report.
+   1. Have computers made accounting cycle obsolete?
+      1. Analysis of complex and unusual transaction still requires accounting judgement.
+      2. Computers have enhanced our ability to munge a lot of data.
+2. Balance Sheet + Income Statement + Statement of Cash Flows allows readers to make decisions regarding the companies past and future.
+3. __Financial Statement Notes__
+   1. Summary of Accounting Policies
+   2. Additional Information about Summary Totals 
+   3. Disclosure of Important Information
+   4. Supplementary Information required by SEC or FASB 
+4. Important to know what procedures were used for the preparation of the financial statements.
+5. Recognition: Including estimates and judgements in the financial statements described in a note.
+6. Financial Statement Notes also provide:
+   1. Explainations of assumptions
+   2. Provide details of summary numbers
+   3. Provide other misc information
+7. __Limitations of Balance Sheets__
+   1. Balance sheet doesn't reflect Market Value.
+   2. Current Value not reflected
+      1. Assets reported at historical cost
+      2. Other assets not included
+      3. Intangible assets not recognized
+   3. Average Equity Market Value is 30% larger than the Average Equity Value for the DOW
+   4. Instability of the Dollar is another Balance Sheet limitations i.e. inflationary risk
+      1. Different currencies introduce their own nuances.
+   5. All companies don't classify and report items similarly
+   6. Some entity resources and obligations are not reported at all
+      1. Brand Value
