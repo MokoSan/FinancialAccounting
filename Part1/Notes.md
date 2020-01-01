@@ -6,6 +6,7 @@
 * [Liabilities](#liabilities)
 * [Owner's Equity](#owners-equity)
 * [Balance Sheet](#balance-sheet)
+* [Income Statement](#income-statement)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -218,3 +219,47 @@
    5. All companies don't classify and report items similarly
    6. Some entity resources and obligations are not reported at all
       1. Brand Value
+
+<a name="income-statement"> <h2> Income Statement </h2></a>
+1. Income Statement effectively tells us how much you made based on a __period__ of time vs. a Balance Sheet that's a __snapshot__ or __point in time__.
+2. Large corporations are expected to report income quarterly and annually.
+3. Income statement reports the Net Income = Revenues - Expenses in the end.
+   1. Revenues generated and costs incurred to generate that revenue mentioned in the income statement.
+4. Components of __Net Income__:
+   1. __Revenue__: Amount of assets created through the sale of goods and services.
+      1. In the form of cash and accounts receivable.
+      2. Increase in total assets and equity.
+   2. __Expenses__: Costs incurred in normal business operations to generate revenues.
+      1. Decrease in total assets and equity.
+   3. __Net Income__: A proxy of companies overall performance. Sometimes called Earnings or profits. Revenues - Expenses = Net Income.
+      1. If Revenue > Expenses: Net Profit
+         1. Increases Equity.
+      2. If Revenue < Expenses: Net Loss
+         1. Decreases Equity.
+   4. Revenues are Total resource (Gross) increases while Assets are a result of Expenses subtracted from Revenues (Net).
+5. Activities resulting from Revenues generate Assets. However, Assets can be as a result of many different activities such as borrowing money.
+6. __Components of the Income Statement__ 
+   1. Sales - Cost of Sales (Cost of Goods Sold) = Gross Profit (Gross Margin)
+   2. Gross Profit / Sales x 100 % = Gross Profit Percentage.
+   3. Gross Profit - Operating Expenses = Operating Income (Earnings before Interest and Taxes)
+      1. How well a business is performing at its unique activities.
+   4. Operating Income - Other Revenues, gains, expenses, losses = Income before taxes
+   5. Net Income: Summarizes a company's overall economic performance for a given period.
+   6. Income Before Income Taxes: Includes the income earned that doesn't have taxes sub'd out.
+7. __Revenues vs. Gains__
+   1. Revenues: Increase in assets from normal business activities.
+   2. Gains: Increases in assets from peripheral activities.
+8. __Expenses vs. Losses__
+   1. Expenses: Decrease in assets from normal business activities.
+   2. Losses: Decrease in assets from peripheral activities.
+9. Restructuring Charges: Not reoccuring items. 
+10. __Earnings per Share__
+    1.  Amount of Income Income associated with each common share of stock.
+    2.  2 numbers disclosed
+        1.  Basic EPS: Income available to common shareholders.
+            1.  (Net Income - Dividends) / Average number of common shares
+            2.  It shows investors the percentage return they can expect on their investment.
+        2.  Diluted EPS: Existence of Stock Options or other rights that can be converted into these shares 
+    3.  EPS is used to compute the PE ratio
+        1.  Is a multiple of earnings.
+        2.  PE Ratio: Ratio of Market Price / Annual Basic EPS
