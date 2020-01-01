@@ -7,6 +7,7 @@
 * [Owner's Equity](#owners-equity)
 * [Balance Sheet](#balance-sheet)
 * [Income Statement](#income-statement)
+* [Statement Of Cash Flows](#statement-of-cashflows)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -263,3 +264,33 @@
     3.  EPS is used to compute the PE ratio
         1.  Is a multiple of earnings.
         2.  PE Ratio: Ratio of Market Price / Annual Basic EPS
+
+<a name="statement-of-cashflows"> <h2> Statement of Cashflows </h2></a>
+1. Statement of Cashflows has 3 sections:
+   1. Operating Activities 
+      1. Most important! 
+      2. Company's daily operations are making cash or losing cash.
+      3. Everyday
+   2. Investing Activities
+      1. Investments in the productive capacity of the business.
+      2. On occasion.
+   3. Financing Activities
+      1. Financing to buy the assets the business needs. 
+2. Important to compare the cash generated from operating activities and the cash needed for investing activities.
+3. Cash Cows: A company that generates so much cash that it can fund its investing activities by itself.
+4. Cash in - Cash out separated into the 3 aforementioned activities.
+   1. Financing to buy the assets
+   2. Investing to conduct operations
+   3. Operating to do business
+5. Why the cash flow increases / decreased is a better question answered.
+6. Flavors of Cash Flows
+   1. Start up
+      1. Negative Operating Cashflows
+      2. Massive Operations of Capital Assets 
+      3. Financed through selling stock and issuing debt.
+   2. Mature
+      1. Positive cash from operations
+      2. Investments in long term assets
+      3. High financing cash flows
+   3. Cash Cow
+      1. Enough cash generated from operations to finance all investing activities as well as utilizing the excess assets for activities. 
