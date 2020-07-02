@@ -52,7 +52,7 @@
 
 1. __Pure Definition__: Economic resources owned or controlled by a company that will provide probable future benefit. __Probable__ __future economic benefits__ __obtained or controlled__ by a particular entity as a result of past transactions or events.
    1. __Probable__: Highlights uncertainty i.e. the amount probably be paid.
-   2. __future economic benefits__: Implications only for the future and not the past. 
+   2. __Future economic benefits__: Implications only for the future and not the past. 
    3. __Obtained or Controlled__: Underlying __economic substance__ not legal form. 
 2. Cash is not the only asset. There are other assets such as:
    1. __Accounts Receivable / Loans Receivable__: The money the business will collect from others in the future based on contracts exist right now. In other words, money owed to the company by its debtors.
@@ -136,7 +136,7 @@
       3. Deferred Income Tax Liability: Income tax expected to be paid in the future years on income that has already been reported in the net income statement but which because of the tax law has not been taxed.
          1. If the value of a taxable investment changes in the future, the business can adjust its deferred tax liability.
       4. Retirement Benefits to Employees
-      5. Long term unearned revenue: Those obligations that are to be satified periods greater than 1 year aka Deferred Income.
+      5. Long term unearned revenue: Those obligations that are to be satisfied periods greater than 1 year aka Deferred Income.
 10. Contigent Liabilities: Potential obligations that may occur depending on the outcome of an uncertain future event. 
     1.  Cosigner's obligation on the loan: If borrower defaults on the loan
     2.  Probable, Possible and Remote contigent liability based on the probability but very vauge in practice.
@@ -144,11 +144,13 @@
         1.  For example: Warranty Liabilities
     4. Possible Contingent Liability: Less than probable but not remote.
        1. Disclosed as a note in the financial statements.
-    5. Remote Contingent Liability: Not disclosed in the finanical statements.
+    5. Remote Contingent Liability: Not disclosed in the finanical statements based on the guarantee. 
     6. Estimated Liability: Definite obligation with only amount of obligation in question and subject to estimation at balance sheet due date.
        1. Pensions
        2. Warranties
        3. Deferred taxes
+   7. Assets and Liabilities are _not_ certain and involve probabilities than in turn are dependent on judgement.
+   8. Estimates and Judgements pervade financial statements.
 
 <a name="owners-equity"> <h2> Owner's Equity </h2></a>
 
