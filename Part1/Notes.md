@@ -10,6 +10,7 @@
 * [Statement Of Cash Flows](#statement-of-cashflows)
 * [How Financial Statements Are Made](#how-financial-made)
 * [Debits and Credits](#debits-credits)
+* [Accrual Accounting](#accrual-accounting)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -317,16 +318,99 @@
 1. __Journal__: Chronological listing of business events using accounting debit-credit language.
 2. __Ledger__: Copy of journals events sorted by category or account.
 3. __Posting__: Conversion of the business events from the journal to the ledger.
-4. Power of debit and credit systems make mistakes low.
-5. Row and column analysis based on the accounting equation can be cumbersome.
-6. Simpler framework: Debits and Credits.
-7. ``Debits = Credits`` is the main rule ensuring the accounting equation is always in balance.
-8. Increases are represented by writing the corresponding values on one side of the page. Decreases are represented by writing it on the other side.
+4. __Journal Entries__: Summarize accounts involved in a transaction - increase, decrease, and associate amounts.
+5. Power of debit and credit systems make mistakes low.
+6. Row and column analysis based on the accounting equation can be cumbersome.
+7. Simpler framework: Debits and Credits.
+8. ``Debits = Credits`` is the main rule ensuring the accounting equation is always in balance.
+9. Increases are represented by writing the corresponding values on one side of the page. Decreases are represented by writing it on the other side.
    1. Debit is used for the left side and Credit used on the right side.
-9. Rules of Debits and Credits
+10. Rules of Debits and Credits
    1.  Increases in assets are written on the left side of the page.
        1.  Assets go up on the left, Assets go down on the right.
    2.  Liabilities and Equities are exactly the opposite i.e. the right side of the page.
        1.  Liabilities and Equities go up on the right and down on the left.
+   3.  Example 1: $100 received by paid in capital.
+       1.  Debit $100 in the Assets account.
+       2.  Credit $100 in the Paid in Capital / Equity account.
+   4.  Example 2: $200 paid out in expenses.
+       1.  Credit $200 in the Assets account.
+       2.  Debit $200 in the Expenses / Equity account.
+   5.  Example 3: $300 loaned from the bank.
+       1.  Debit $300 in the Assets account.
+       2.  Credit $300 in the Liabilities account under Loan Payable.
+11. Preparation of Journal Entries involve 3 main steps:
+    1.  Identify the accounts.
+    2.  Find out if the accounts increased / decreased.
+    3.  Compute how much did the accounts change.
+12. Traditionally, account with a debit is listed first and then the credit.
+    1.  Credit entry is indented.
+13. Don't net the cost of goods sold and revenue. Keep the breakup of the Retained Revenue separate.
+14. Paying off a liability doesn't create an expense.
+    1.  Expenses are created when businesses cause assets to be consumed or liabilities are created such as unpaid wages.
+15. Dividends aren't reported as expenses on the income statement.
+16. Posting involves sorting the debits and credits from all journal entries and copying them to __individual accounts__ for each item. 
+    1.  For example, for cash, all the journal entries are accumulated and presented like a single page of a paper with debits to the left and credits to the right and usually a single balance.
+17. The T Account is this visual representation of individual accounts with debits to the left and credits to the right.
+18. Ledger is a collection of the posted accounts.
+19. Posting requires no analysis.
+20. Once all the accounts are posted, balances for each account are computed. 
+21. The overall balances between the debits and credits should be equal.
+22. __Trial Balance__: Internal Document used to summarize account balances for all accounts from the companies accounting system produced via the Ledger.
+23. Trial Balance != Balance Sheet
+24. Balance Sheet is a one-page summary document based on the the trial balance.
+25. The Trial Balance is the raw material used to create the Balance Sheet and the Income Statement.
 
 ![image](./pics/RulesOfDebitAndCredit.png)
+
+<a name="accrual-accounting"> <h2> Accrual Accounting </h2></a>
+
+1. Accrual Accounting is still the undisputed champion of performance measures. 
+   1. It was found that the adjusted-R2 statistic of accrual accounting net income was significantly higher than the raw cash flows from operations with respect to the annual change in market value of a company.
+2. Net Income != Cash Flow.
+3. __Accrual Accounting__: Accounting method that records revenues and expenses when they are incurred, regardless of when cash is exchanged. The term "accrual" refers to any individual entry recording revenue or expense in the absence of a cash transaction.
+4. Accountants must make estimates and assumptions in order to convert the raw cash flow data into a more meaningful measure of performance, net income. This process, accrual accounting.
+5. At the end of each accounting period, in order to report all asset, liability and owner's equity amounts properly, and to recognize all revenues and expenses for the period on an accrual basis, accountants are required to make any necessary adjustments prior to preparing the financial statements.
+6. Items Requiring Analysis for Adjustments
+   1. Unrecorded Receivables
+      1. Revenues should be recorded when earned regardless of when the cash is received.
+      2. These fall under the unrecorded receivables item => assets.
+      3. For example, services whose invoice isn't made but the services are conducted.
+   2. Unrecorded Liabilities
+      1. Expenses incurred prior to being paid. 
+      2. For example, employees work at the end of the year but their paycheck is paid next year. 
+   3. Prepaid Expenses
+      1. Payments a company makes in advance for items normally charged to expense. 
+      2. Show partial consumption of an asset.
+      2. For example, payment of insurance premium for the next few months.
+      4. For example, rent paid for the next 2 years. 
+   4. Unearned Revenue 
+      1. Amounts received before the actual earning of revenues.
+      2. Liabilities since the service still needs to be rendered.
+      3. For example, paying for airline tickets in advantage but obligation to provide the ride is required.
+7. __Adjusting Entries__ are journal entries required at the end of each accounting period to recognize on an accrual basis, revenues and expenses for the period, and to report proper amounts for asset, liability, and owners' equity accounts. 
+8. Adjusting Entries are analysis of circumstances at each period's close. 
+   1. Determine if the amounts of all assets and liabilities are correct i.e. make sure that there is accuracy of amounts of the assets and liabilities i.e. fix the balance sheets.
+   2. Revenue or expense adjustments are required i.e. fix the income statement.
+9. It's good practice to check at the end of the accounting year, if any revenue isn't accounted for.
+10. After the statements have been created for one year, through a process involving closing entries, the income statement numbers are set at zero and the balances in those accounts are transferred to their permanent home, the retained earnings account.
+    1. Closing Revenue Accounts: debit Sales Revenue and credit Retained Earnings.
+    2. Closing Expense Accounts: debit Retained Earnings and credit COGS.
+    3. Closing Dividend Accounts: debit Retained Earnings and credit Dividends.
+11. Once all regular journal entries and adjusting journal entries are posted to individual accounts, a balance for each account can then be computed.
+12. Trial Balance Sheet organized in:
+    1.  Assets
+    2.  Liabilities
+    3.  Equities
+    4.  Dividends
+    5.  Revenues
+    6.  Expenses
+13. Easier to start with the income statement.
+14. Cash -> Balance Sheet.. Nothing appears both in the Balance Sheet __and__ Income Statement.
+15. Ending Retained Earnings = Beginning Retained Earnings + Net Income - Dividends.
+16. From this ending retained earnings, we then make the Balance Sheet.
+17. Cycle:
+    1.  Transactions recorded in the Journal as Journal Entries
+    2.  These Journal Entries are sorted and categorized in the Ledger as a collection of T-Accounts in the posting process.
+    3.  End of year adjustments made.
+    4.  The data is then used to make the financial statements. 
