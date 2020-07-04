@@ -8,6 +8,8 @@
 * [Balance Sheet](#balance-sheet)
 * [Income Statement](#income-statement)
 * [Statement Of Cash Flows](#statement-of-cashflows)
+* [How Financial Statements Are Made](#how-financial-made)
+* [Debits and Credits](#debits-credits)
 
 <a name="the-accounting-equation"> <h2> The Accounting Equation </h2></a>
 
@@ -248,38 +250,42 @@
       1. How well a business is performing at its unique activities.
    4. Operating Income - Other Revenues, gains, expenses, losses = Income before taxes
    5. Net Income: Summarizes a company's overall economic performance for a given period.
-   6. Income Before Income Taxes: Includes the income earned that doesn't have taxes sub'd out.
+   6. Income Before Income Taxes: Includes the income earned that doesn't have taxes subtracted out.
 7. __Revenues vs. Gains__
    1. Revenues: Increase in assets from normal business activities.
-   2. Gains: Increases in assets from peripheral activities.
+   2. Gains: Increases in assets from peripheral activities or not central to the business.
 8. __Expenses vs. Losses__
    1. Expenses: Decrease in assets from normal business activities.
-   2. Losses: Decrease in assets from peripheral activities.
-9. Restructuring Charges: Not reoccuring items. 
+   2. Losses: Decrease in assets from peripheral activities or not central to the business.
+9. Restructuring Charges: Not recurring items. 
 10. __Earnings per Share__
-    1.  Amount of Income Income associated with each common share of stock.
+    1.  Amount of Income associated with each common share of stock.
     2.  2 numbers disclosed
         1.  Basic EPS: Income available to common shareholders.
             1.  (Net Income - Dividends) / Average number of common shares
             2.  It shows investors the percentage return they can expect on their investment.
-        2.  Diluted EPS: Existence of Stock Options or other rights that can be converted into these shares 
+        2.  Diluted EPS: Existence of Stock Options or other rights that can be converted into these shares.
+            1.  Potential impact on EPS on the exercise of existing options or other rights to shares. 
     3.  EPS is used to compute the PE ratio
         1.  Is a multiple of earnings.
-        2.  PE Ratio: Ratio of Market Price / Annual Basic EPS
+        2.  PE Ratio: Market Price / Annual Basic EPS
+            1.  High PE Ratio: Overvalued stock is expected to earn more or a strong growth in the future than what it currently does.
 
 <a name="statement-of-cashflows"> <h2> Statement of Cashflows </h2></a>
 1. Statement of Cashflows has 3 sections:
    1. Operating Activities 
       1. Most important! 
       2. Company's daily operations are making cash or losing cash.
-      3. Everyday
+      3. Everyday business.
    2. Investing Activities
       1. Investments in the productive capacity of the business.
       2. On occasion.
+      3. Ex. Buying land, buildings.
    3. Financing Activities
       1. Financing to buy the assets the business needs. 
+      2. Dealing with banks and shareholders.
 2. Important to compare the cash generated from operating activities and the cash needed for investing activities.
-3. Cash Cows: A company that generates so much cash that it can fund its investing activities by itself.
+3. Cash Cows: A company that generates so much cash from operating activities that it can fund its investing activities by itself.
 4. Cash in - Cash out separated into the 3 aforementioned activities.
    1. Financing to buy the assets
    2. Investing to conduct operations
@@ -287,7 +293,7 @@
 5. Why the cash flow increases / decreased is a better question answered.
 6. Flavors of Cash Flows
    1. Start up
-      1. Negative Operating Cashflows
+      1. Negative Operating Cash flows
       2. Massive Operations of Capital Assets 
       3. Financed through selling stock and issuing debt.
    2. Mature
@@ -296,3 +302,31 @@
       3. High financing cash flows
    3. Cash Cow
       1. Enough cash generated from operations to finance all investing activities as well as utilizing the excess assets for activities. 
+      2. For a safe company, you'd want the company to invest mainly in the operating cash flow section.
+
+<a name="how-financial-made"> <h2> How Financial Statements Are Made </h2></a>
+1. Booking Keeping is extremely important in modern society to extract and audit transactions.
+2. Booking Keeping is the perseveration of a systematic quantitative record for an activity. And until you have a record of an activity, you can't make any sophisticated decisions.
+3. __Transaction Analysis__: Process of determining how an economic event impacts financial statements.
+4. Prepaid items are assets as they provide benefit now. 
+5. Revenue is recorded at the time of the sale / service provided. There is no change made to Revenue when payment is received.
+6. Expanded Accounting Equation: Assets = Liabilities + Paid in Capital + ( Revenues - Expenses - Dividends )
+7. Performance is evaluated via the statements and used to make business decisions.
+
+<a name="debits-credits"> <h2> Debits and Credits </h2></a>
+1. __Journal__: Chronological listing of business events using accounting debit-credit language.
+2. __Ledger__: Copy of journals events sorted by category or account.
+3. __Posting__: Conversion of the business events from the journal to the ledger.
+4. Power of debit and credit systems make mistakes low.
+5. Row and column analysis based on the accounting equation can be cumbersome.
+6. Simpler framework: Debits and Credits.
+7. ``Debits = Credits`` is the main rule ensuring the accounting equation is always in balance.
+8. Increases are represented by writing the corresponding values on one side of the page. Decreases are represented by writing it on the other side.
+   1. Debit is used for the left side and Credit used on the right side.
+9. Rules of Debits and Credits
+   1.  Increases in assets are written on the left side of the page.
+       1.  Assets go up on the left, Assets go down on the right.
+   2.  Liabilities and Equities are exactly the opposite i.e. the right side of the page.
+       1.  Liabilities and Equities go up on the right and down on the left.
+
+![image](./pics/RulesOfDebitAndCredit.png)
